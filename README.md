@@ -1,2 +1,2 @@
 # Face-Recognition-System-
-"This Face Recognition System uses computer vision and deep learning to detect and recognize faces in images and videos. Built with OpenCV and Dlib, it supports real-time face detection, alignment, and recognition."
+This Face Recognition System uses computer vision and deep learning to detect and recognize faces in images and videos. Built with OpenCV and Dlib,  it supports face detection, facial landmark alignment, and face matching with a pre-stored dataset. This project is suitable for applications such as security systems, automated attendance, access control, and user authentication.
